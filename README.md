@@ -1,6 +1,9 @@
 ## Hello World! 😁
 ![Visitors Count](https://visitor-badge.glitch.me/badge?page_id=VandersonCarniel.visitor-badge&left_text=Visitors)
 
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+
+
 ```php
 <?php
 
