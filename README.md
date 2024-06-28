@@ -1,5 +1,5 @@
 ## Hello World! 😁
-![Visitors Count](https://visitor-badge.glitch.me/badge?page_id=VandersonCarniel.visitor-badge&left_text=Visitors)
+<!--![Visitors Count](https://visitor-badge.glitch.me/badge?page_id=VandersonCarniel.visitor-badge&left_text=Visitors)-->
 
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
@@ -16,7 +16,7 @@ class About extends Me
         return [
             'workplace' => [
                 'company' => 'Sicredi Vale do Cerrado 🍀',
-                'position' => 'BI Analyst'         
+                'position' => 'Assesor de BI'         
             ]
         ];
     }
